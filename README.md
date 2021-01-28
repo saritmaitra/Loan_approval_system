@@ -1,4 +1,6 @@
 # Loan_approval_system
+Use case is to automate the loan eligibility process (real time) based on customer detail obtained during loan application. This will lead to improved service and customer satisfaction.
+
 ## Classification
 Classification -> Logistic Regression
 ### Advantages
